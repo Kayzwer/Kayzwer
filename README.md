@@ -38,5 +38,6 @@ Thanks Pierre.
 * Machine Learning
 * Deep Learning (still studying)
 * Data Visualization
+* Data Preprocessing
 * Programming
 * Math and Stats
