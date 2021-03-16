@@ -1,5 +1,7 @@
 # Hello World, Kayzwer Here
 
+<img src="https://avatars.githubusercontent.com/u/68285002?s=460&u=410d0450d6c6379dac3e22744ed199afff07540e&v=4" width="300" height="300">
+
 I am Lee Kai Yu (Chinese: 李楷育), or call me Kayzwer. \
 I am from Malaysia and I am 18 years old. \
 I learn Data Science, Machine Learning and Artifiical Intelligence online, ALL THINGS ARE FREE!!! \
@@ -13,7 +15,7 @@ This quote make me persist untill now, I am still keep learning, no matter from 
 ![XD](https://i.pinimg.com/originals/63/37/06/63370652064071173521f18101e6e81b.jpg) \
 Math is just so beautiful 
 
-![XD](https://www.gstatic.com/education/formulas2/355397047/en/sigmoid_function.svg) \
+<img src="https://www.gstatic.com/education/formulas2/355397047/en/sigmoid_function.svg" width="500" height="250"> \
 Thanks Pierre.
 
 ## Taregt career 
