@@ -1,7 +1,5 @@
 # Hello World, Kayzwer Here
 
-<img src="https://avatars.githubusercontent.com/u/68285002?s=460&u=410d0450d6c6379dac3e22744ed199afff07540e&v=4" width="300" height="300">
-
 I am Lee Kai Yu (Chinese: 李楷育), or call me Kayzwer. \
 I am from Malaysia and I am 18 years old. \
 I learn Data Science, Machine Learning and Artifiical Intelligence online, ALL THINGS ARE FREE!!! \
