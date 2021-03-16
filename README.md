@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello World, Kayzwer Here
 
-<!--
-**Kayzwer/Kayzwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Lee Kai Yu (Chinese: 李楷育), or call me Kayzwer. \
+I am from Malaysia and I am 18 years old. \
+I learn Data Science, Machine Learning and Artifiical Intelligence online, ALL THINGS ARE FREE!!! \
+Currently studying in Southern University College, Diploma in Computer Science.
 
-Here are some ideas to get you started:
+__*"Value of knowledge shouldn't depend upon where that knowledge was acquired"* \
+*by Python Programmer*__ \
+Subscribe his channel [here](https://www.youtube.com/watch?v=eTxyviU0Ddo). \
+This quote make me persist untill now, I am still keep learning, no matter from online or book. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![XD](https://i.pinimg.com/originals/63/37/06/63370652064071173521f18101e6e81b.jpg) \
+Math is just so beautiful 
+
+![XD](https://www.gstatic.com/education/formulas2/355397047/en/sigmoid_function.svg) \
+Thanks Pierre.
+
+## Taregt career 
+* Data Analyst (for entry job, gain experience wow)
+* Data Scientist
+* Machine Learning Engineer
+* Educator (after old age)
+
+## Life Target
+- [x] Learn a programming language. (done when I was 15)
+- [ ] Write a paper about math or computer science.
+- [ ] Get a data job.
+- [ ] Keep study math until I die.
+- [ ] Keep contribute to open source until I die. (need someone guide me, help TT)
+
+## Main Language
+* Python
+* Java
+
+## Skills
+* EDA (still improving)
+* Machine Learning
+* Deep Learning (still studying)
+* Data Visualization
+* Programming
+* Math and Stats
